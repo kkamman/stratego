@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Stratego.Core.Tests/Stratego.Core.Tests.csproj" />
+  <Project Path="Stratego.Core/Stratego.Core.csproj" />
+</Solution>
